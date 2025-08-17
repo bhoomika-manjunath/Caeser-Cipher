@@ -5,14 +5,18 @@ The Caesar Cipher is a substitution cipher where each letter in the plaintext is
 🚀 Project Highlights
 
 🔄 Encryption & Decryption functionality using a customizable shift key
+
 🧪 Interactive CLI for user input and testing
+
 🧠 Simple yet effective demonstration of classical cryptography
+
 📦 Clean and modular code structure for easy understanding and extension
 
 
 🛠️ Technologies Used
 
 Python (or specify your language)
+
 Basic string manipulation and control flow
 
 
