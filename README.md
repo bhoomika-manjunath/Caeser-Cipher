@@ -5,19 +5,16 @@ The Caesar Cipher is a substitution cipher where each letter in the plaintext is
 🚀 Project Highlights
 
 🔄 Encryption & Decryption functionality using a customizable shift key
-
 🧪 Interactive CLI for user input and testing
-
 🧠 Simple yet effective demonstration of classical cryptography
-
 📦 Clean and modular code structure for easy understanding and extension
 
 
 🛠️ Technologies Used
 
 Python (or specify your language)
-
 Basic string manipulation and control flow
+
 
 📚 Learning Outcomes
 
@@ -31,13 +28,9 @@ Improved coding and problem-solving skills
 How it works:
 
 You enter a message (any string).
-
 You choose a shift value (e.g., 3).
-
 The program prints:
-
 The encrypted message (shifted by 3).
-
 The decrypted version (correctly reversed back).
 
 
